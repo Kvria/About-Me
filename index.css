@@ -10,7 +10,7 @@ body{
   color: red;
   text-align: center;
   font-style: italic;
-  margin-top: 8%;
+  margin-top: 1%;
 }
 #home h2 {
   position: relative;
@@ -50,6 +50,13 @@ body{
   margin-left: 100px;
   margin-top: 70px;
 }
+.arrow {
+  border: 2px solid black;
+  padding: 6px;
+  margin: 20px;
+  background-color: black;
+}
+
 
 
 
